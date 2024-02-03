@@ -24,6 +24,11 @@ Congratulations on making it till here. If you've received this, it means that y
 - Performance / security optimisations
 - Creativity
 - Ability to document what you missed in the implementation / possible bugs / broken flows
+- Following is the descending order of weightage for different screens (this should help you prioritise what to build if time is a concern)
+	- Design studio screens (max weightage)
+   	- Profile score screens
+   	- Notification
+   	- Withdrawal screens (min weightage)
 
 ## Submission process
 - Submit the challenge within 2 days of receiving / starting the challenge
