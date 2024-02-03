@@ -1,8 +1,9 @@
 <img src="https://github.com/Dealflow-ApS/senior-front-end-engineer-challenge/blob/8d8b14e495eadacdd9e21c6a0da8038f757b9854/logo.gif" alt="logo" width="70"/>
 
-# Senior front-end engineer challenge
+# Senior front-end engineer challenge 💻
 
-Congratulations on making it this far. If you've received this, it means that you are now among the top 2% applicants who applied for this position. All the best with this challenge; see you at the finish line. <br /><br />
+Congratulations on making it this far :zap:. If you've received this, it means that you are now among the top 3% applicants who applied for this position 😎. 
+<br /><br />All the best with this challenge; see you at the finish line :godmode:. <br /><br />
 <img src="https://github.com/Dealflow-ApS/senior-front-end-engineer-challenge/blob/3b398947f88de3aa38fd13f5136f605391dc3c44/global.png" alt="logo" width="60"/>
 <img src="https://github.com/Dealflow-ApS/senior-front-end-engineer-challenge/blob/3b398947f88de3aa38fd13f5136f605391dc3c44/limitless.png" alt="logo" width="70"/>
 
@@ -43,5 +44,5 @@ Congratulations on making it this far. If you've received this, it means that yo
   - Document it somewhere so that we don't miss it
 
 ## Eyebrows raised?
-- We are here to listen if you want to roast this challenge and think we could have done a better job.
+- We are here to listen if you want to roast this challenge and think we could have done a better job. :trollface:
   - Send out an email to siddharth@dealflow.live
