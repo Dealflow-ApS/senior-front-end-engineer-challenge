@@ -9,7 +9,7 @@ Congratulations on making it till here. If you've received this, it means that y
 ## Challenge details
 
 - Convert these [designs](https://www.figma.com/file/OyUXth4FKdtdR65F2dDuZY/Engineering-Test?type=design&node-id=6-14344&mode=design&t=6ioJt3JF9pVxzozB-0) to pixel perfect UI
-- Stack that we recommend you use
+- Stack that we recommend you use (have a different idea in mind? Let us know why)
 	- Typescript
 	- Next.js
 	- Tailwind CSS
