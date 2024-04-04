@@ -28,6 +28,7 @@ Congratulations on making it this far :zap:. If you've received this, it means t
     -   Highlight any assumptions made during development, especially concerning e-conomic API responses and transaction processing logic.
     -   Include guidelines for securely managing API credentials and sensitive data, emphasizing best practices in application security and data protection.
     - Feel free to exclude certain implementations if you think they are taking too much time. Just explain to us how you would have done it
+    - Feel free to use dummy data
 
 ## Factors that will be used to evaluate your assignment
 
